@@ -21,24 +21,54 @@ class MyScaffold extends StatelessWidget {
           ),
           new Expanded(
             child: new Container(
+              height: 100,
               constraints: new BoxConstraints.expand(
-                height:Theme.of(context).textTheme.display1.fontSize * 1.1 + 200.0,
+                height: 20.0,
               ),
               decoration: new BoxDecoration(
                 border: new Border.all(width: 2.0, color: Colors.red),
                 color: Colors.grey,
                 borderRadius: new BorderRadius.all(new Radius.circular(20.0)),
                 image: new DecorationImage(
-                  image: new NetworkImage('http://h.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=0d023672312ac65c67506e77cec29e27/9f2f070828381f30dea167bbad014c086e06f06c.jpg'),
+                  image: new NetworkImage(
+                      'http://h.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=0d023672312ac65c67506e77cec29e27/9f2f070828381f30dea167bbad014c086e06f06c.jpg'),
                   centerSlice: new Rect.fromLTRB(270.0, 180.0, 1360.0, 730.0),
                 ),
               ),
               padding: const EdgeInsets.all(28.0),
-              alignment: Alignment.center,
+              alignment: Alignment.topCenter,
               child: new Text('Hello World',
-                  style: Theme.of(context).textTheme.display1.copyWith(color: Colors.black)),
+                  style: Theme.of(context)
+                      .textTheme
+                      .display1
+                      .copyWith(color: Colors.black)),
               transform: new Matrix4.rotationZ(0),
             ),
+          ),
+          new Row(
+            children: <Widget>[
+              Expanded(
+                child: Container(
+                  color: Colors.red,
+                  padding: EdgeInsets.all(5.0),
+                ),
+                flex: 1,
+              ),
+              Expanded(
+                child: Container(
+                  color: Colors.yellow,
+                  padding: EdgeInsets.all(5.0),
+                ),
+                flex: 2,
+              ),
+              Expanded(
+                child: Container(
+                  color: Colors.blue,
+                  padding: EdgeInsets.all(5.0),
+                ),
+                flex: 1,
+              ),
+            ],
           )
         ],
       ),
@@ -102,16 +132,18 @@ class _CounterState extends State<Counter> {
 //        new Text('Count: $_counter'),
 //      ],
 //    );
-  return new Row(
-    children: <Widget>[
-      new  CounterIncrement(onPressed: _increment,),
-      new  CounterDisplay(count: _counter,),
-    ],
-  );
+    return new Row(
+      children: <Widget>[
+        new CounterIncrement(
+          onPressed: _increment,
+        ),
+        new CounterDisplay(
+          count: _counter,
+        ),
+      ],
+    );
   }
 }
-
-
 
 class MyButton extends StatelessWidget {
   @override

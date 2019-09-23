@@ -1,10 +1,12 @@
+
+
 # Flutter 布局（七）- Row、Column详解
 
  
 
 > 本文主要介绍Flutter布局中的Row、Column控件，详细介绍了其布局行为以及使用场景，并对源码进行了分析。
 
- 
+
 
 ## 1. Row
 
@@ -197,7 +199,7 @@ top对应Row以及Column的话，就是左边和顶部，bottom的话，则是�
 
  
 
-**TextBaseline**：使用的TextBaseline的方式，有两种，前面已经介绍过。
+- **TextBaseline**：使用的TextBaseline的方式，有两种，前面已经介绍过。
 
  
 
