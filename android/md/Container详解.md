@@ -116,7 +116,7 @@ Object > Diagnosticable > DiagnosticableTree > Widget > StatelessWidget > Contai
 
  
 
-```
+```dart
 Container({
     Key key,
     this.alignment,
@@ -130,7 +130,7 @@ Container({
     this.margin,
     this.transform,
     this.child,
-  })
+  });
 ```
 
  
