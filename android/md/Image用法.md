@@ -7,7 +7,7 @@
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/490111-645cd6dd82b34a4d.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/342)
+![img](https://upload-images.jianshu.io/upload_images/490111-645cd6dd82b34a4d.jpg)
 
 image
 
