@@ -524,9 +524,3 @@ Key在构建相同类型widget的多个实例时很有用。例如，`ShoppingLi
 主要文章: [`GlobalKey`](https://docs.flutter.io/flutter/widgets/GlobalKey-class.html)
 
 您可以使用全局key来唯一标识子widget。全局key在整个widget层次结构中必须是全局唯一的，这与局部key不同，后者只需要在同级中唯一。由于它们是全局唯一的，因此可以使用全局key来检索与widget关联的状态。
-
-# day2
-
-
-## Widgets 基础组件
-
