@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # flutter app的学习
 
-- [day1-Flutter Widget框架概述 ](https://github.com/ybb963416867/flutter_app/blob/master/Flutter_Widget框架的概述.md)
-- [day2-基础 Widgets 基础组件](https://github.com/ybb963416867/flutter_app/blob/master/Widgets_基础组件.md)
+- [day1-Flutter Widget框架概述 ](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Flutter_Widget框架的概述.md)
+- [day2-基础 Widgets 基础组件](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Widgets_基础组件.md)
