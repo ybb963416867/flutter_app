@@ -8,3 +8,5 @@
 - [Flutter组件学习—— Image](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Image用法.md)
 
 - [Flutter组件学习—— Text](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Text用法.md)
+
+- [Flutter组件学习—— Icon](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Icon用法.md)
