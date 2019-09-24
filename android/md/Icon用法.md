@@ -53,7 +53,7 @@ this.icon, //IconData类型，flutter内置了一系列的枚举值，使用Icon
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-8dea2c526f286dfa.png?imageMogr2/auto-orient/strip|imageView2/2/w/27)
+![img](https://upload-images.jianshu.io/upload_images/10820743-8dea2c526f286dfa.png?imageMogr2/auto-orient/strip|imageView2/2/w/27)
 
 image.png
 
@@ -65,7 +65,7 @@ Icon(Icons.accessible,color: Colors.red,),//设置图标为红色
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-49518b6d4b4523ea.png?imageMogr2/auto-orient/strip|imageView2/2/w/48)
+![img](https://upload-images.jianshu.io/upload_images/10820743-49518b6d4b4523ea.png?imageMogr2/auto-orient/strip|imageView2/2/w/48)
 
 image.png
 
@@ -77,7 +77,7 @@ Icon(Icons.accessible,color: Colors.red,size: 30,),//设置图标大小
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-4eb5eca7e4019d27.png?imageMogr2/auto-orient/strip|imageView2/2/w/33)
+![img](https://upload-images.jianshu.io/upload_images/10820743-4eb5eca7e4019d27.png?imageMogr2/auto-orient/strip|imageView2/2/w/33)
 
 image.png
 
@@ -115,7 +115,7 @@ ImageProvider是一个抽象类，其子类包括
 
   
 
-  ![img](https:////upload-images.jianshu.io/upload_images/10820743-369a3076d7c90c96.png?imageMogr2/auto-orient/strip|imageView2/2/w/31)
+  ![img](https://upload-images.jianshu.io/upload_images/10820743-369a3076d7c90c96.png?imageMogr2/auto-orient/strip|imageView2/2/w/31)
 
   image.png
 
@@ -149,7 +149,7 @@ const IconButton({
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-cf5c8832be62cbea.png?imageMogr2/auto-orient/strip|imageView2/2/w/41)
+![img](https://upload-images.jianshu.io/upload_images/10820743-cf5c8832be62cbea.png?imageMogr2/auto-orient/strip|imageView2/2/w/41)
 
 image.png
 
@@ -161,7 +161,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-abfb7c2280b2f347.png?imageMogr2/auto-orient/strip|imageView2/2/w/56)
+![img](https://upload-images.jianshu.io/upload_images/10820743-abfb7c2280b2f347.png?imageMogr2/auto-orient/strip|imageView2/2/w/56)
 
 image.png
 
@@ -170,7 +170,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-3818a3831e8032e8.png?imageMogr2/auto-orient/strip|imageView2/2/w/56)
+![img](https://upload-images.jianshu.io/upload_images/10820743-3818a3831e8032e8.png)
 
 image.png
 
@@ -182,7 +182,7 @@ image.png
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/10820743-34bc272dd3354690.png?imageMogr2/auto-orient/strip|imageView2/2/w/70)
+![img](https://upload-images.jianshu.io/upload_images/10820743-34bc272dd3354690.png)
 
 image.png
 
