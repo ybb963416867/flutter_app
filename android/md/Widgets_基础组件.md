@@ -6,3 +6,5 @@
 - [Flutter 布局（二）—— Row、Column详解](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Row、Column详解.md)
 
 - [Flutter组件学习—— Image](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Image用法.md)
+
+- [Flutter组件学习—— Text](https://github.com/ybb963416867/flutter_app/blob/master/android/md/Text用法.md)
